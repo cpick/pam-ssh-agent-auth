@@ -2,7 +2,7 @@ pam-ssh-agent-auth Cookbook
 ===========================
 Install [pam_ssh_agent_auth](http://pamsshagentauth.sf.net/) from a [launchpad.net ppa](https://launchpad.net/~cpick/+archive/pam-ssh-agent-auth) and enable it for sudo on Ubuntu 12.04 (precise) machines.
 
-Patches (especially to support other architectures/OS vesrions) very welcome.
+Patches (especially to support other architectures/OS versions) very welcome.
 
 Requirements
 ------------
